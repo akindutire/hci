@@ -1,0 +1,58 @@
+/*----kp_editor----------*/
+
+div#kp-editor{
+
+	box-shadow : 0 2px 5px 0 rgba(0,0,0,0.16);
+	-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,0.16); 
+	-moz-box-shadow:0 2px 5px 0 rgba(0,0,0,0.16); 
+
+	border: 1px solid #ccc;
+	padding: 10px;
+	overflow: auto;
+
+
+}
+
+div#kp-editor iframe{
+
+	resize: vertical;
+}
+
+div#kp-editor iframe body{
+	padding: 8px 16px;
+}
+
+div#kp-editor-header{
+
+	margin-top: 8px !important;
+	margin-bottom: 8px !important;
+
+}
+
+div#kp-editor-header span{
+
+	margin-top: 8px !important;
+	margin-bottom: 8px !important;
+	
+	cursor: pointer !important;
+	-webkit-cursor: pointer !important;
+	-moz-cursor: pointer !important;
+
+}
+
+
+div#kp-editor-header span:hover{
+
+	background: grey;
+	border-radius: 4px;
+	color: #ffffff;
+	transition: all 0.3s linear 0s;
+}
+
+div#kp-editor-header input{
+
+	width:8px;
+	height: 8px;
+	background: black;
+}
+

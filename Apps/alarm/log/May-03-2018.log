@@ -1,0 +1,73 @@
+12:06:57 am ---> DELETE FROM timer WHERE id = ?   id = ? 
+12:07:05 am ---> DELETE FROM timer WHERE id = ?   id = ? 
+12:08:03 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:08:07 am ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:08:07 am ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+12:09:03 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:10:03 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:11:03 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:11:32 am ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:11:32 am ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+12:12:03 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:13:03 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:13:03 am ---> SELECT day FROM day WHERE id = ?  
+12:14:03 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:15:03 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:16:03 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:16:54 am ---> DELETE FROM timer WHERE id = ?   id = ? 
+12:17:03 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:18:03 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:22:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:23:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:24:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:25:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:26:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:27:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:28:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:29:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:30:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:31:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:32:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:33:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:34:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:35:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:36:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:37:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:38:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:39:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:40:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:41:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:42:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:43:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:44:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:45:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:46:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:47:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:48:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:49:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:50:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:51:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:52:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:53:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:54:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:55:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:56:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:57:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:58:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:59:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:00:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:01:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:02:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:03:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:04:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:05:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:06:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:07:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:08:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:09:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:10:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:11:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:12:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:13:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:14:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:15:06 am ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   

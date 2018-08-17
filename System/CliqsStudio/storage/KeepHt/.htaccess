@@ -1,0 +1,11 @@
+Options FollowSymLinks MultiViews
+IndexOptions FancyIndexing
+
+DirectoryIndex index.php index.html main.php main.html
+
+<FilesMatch \.*>
+
+	order allow,deny
+	deny from all
+
+</FilesMatch>

@@ -1,0 +1,46 @@
+
+@font-face {
+    font-family: 'cqs-amble';
+    src:url(font/Amble-Regular-webfont.ttf) format('truetype');
+}
+
+
+@font-face {
+    font-family: 'cqs-aaargh';
+    src:url(font/Aaargh.ttf) format('truetype');
+}
+
+
+
+.w3-cqsfont {
+  font-family: "cqs-aaargh", "ubuntu";
+}
+
+.w3-cqs-amble {
+  font-family: "cqs-amble";
+}
+
+.w3-cqs-aaargh {
+  font-family: "cqs-aaargh";
+}
+
+.w3-cqs-black-bg{
+
+	background:rgba(0,0,0,0.5);
+
+}
+
+.w3-cqs-purple-bg{
+
+	background:#663399;
+	color: #CCFFFF;
+}
+
+.w3-cqs-purple-c{
+
+    color: #663399;
+}
+
+.w3-cqs-cyan{
+	color: #CCFFFF;
+}

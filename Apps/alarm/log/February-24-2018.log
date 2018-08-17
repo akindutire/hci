@@ -1,0 +1,12 @@
+04:57:00 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+04:57:07 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+04:57:11 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+04:57:55 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+04:57:55 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+04:58:05 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+04:58:34 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+04:58:34 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+04:59:05 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+05:00:05 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+05:00:05 pm ---> SELECT day FROM day WHERE id = ?  
+05:01:05 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   

@@ -1,0 +1,14 @@
+
+ {
+
+	"korapo_general" :{
+
+ 			"driver": "mysql" ,
+ 			"host": "127.0.0.1" ,
+ 			"username": "root",
+ 			"password": "",
+ 			"prefix":"",
+ 			"path":""
+ 	}
+
+ }

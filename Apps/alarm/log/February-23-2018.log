@@ -1,0 +1,219 @@
+04:58:23 am ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+04:58:29 am ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+05:00:16 am ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+05:00:16 am ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+10:51:45 am ---> DELETE FROM timer WHERE id = ?   id = ? 
+10:52:07 am ---> DELETE FROM timer WHERE id = ?   id = ? 
+10:52:28 am ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+10:52:28 am ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+10:55:17 am ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+10:55:17 am ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+10:55:23 am ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+10:57:04 am ---> DELETE FROM timer WHERE id = ?   id = ? 
+10:57:15 am ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+10:57:15 am ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+10:57:18 am ---> DELETE FROM timer WHERE id = ?   id = ? 
+12:44:32 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:45:02 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+12:45:03 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+12:45:36 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:45:36 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+12:45:58 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:46:58 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:47:58 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:48:58 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:49:58 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:50:58 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:51:52 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+12:52:15 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:52:15 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+12:52:47 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:53:47 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:54:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:55:47 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:56:47 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:57:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:58:47 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+12:59:47 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:00:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:01:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:02:47 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:03:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:04:29 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:05:04 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:05:04 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+01:05:37 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:05:44 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:06:13 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:06:13 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+01:06:51 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:07:51 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:08:51 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:09:51 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:10:51 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:11:51 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:12:51 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:13:51 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:14:51 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:15:47 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:16:09 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:16:09 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+01:16:45 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:17:45 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:18:45 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:19:45 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:20:45 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:22:36 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:23:32 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:24:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:24:32 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:25:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:26:05 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:26:35 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:27:05 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:27:35 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:28:05 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:28:35 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:29:00 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:29:16 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:29:16 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+01:30:01 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:30:30 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:31:00 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:31:30 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:32:01 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:32:31 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:33:01 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:33:49 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:34:10 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:34:19 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:34:25 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:34:25 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+01:34:50 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:35:19 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:35:49 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:36:19 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:36:49 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:37:17 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:37:34 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:37:34 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+01:37:46 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:38:04 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:38:04 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+01:38:16 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:38:46 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:39:02 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:39:24 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:39:54 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:40:21 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:40:21 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+01:40:35 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:41:05 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:41:35 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:42:05 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:42:35 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:43:05 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:43:35 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:44:07 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:44:37 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:45:07 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:45:20 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:45:22 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:45:33 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:45:33 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+01:45:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:46:18 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:46:33 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:46:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:47:18 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:47:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:48:18 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:48:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:49:18 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:49:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:50:18 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:50:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:51:18 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:51:48 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:52:19 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:52:19 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+01:52:40 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:53:10 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:53:40 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:54:10 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:54:41 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:55:10 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:55:40 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:56:10 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:56:40 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:57:11 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:57:41 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:57:56 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:58:11 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:58:11 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+01:58:53 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+01:59:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:59:51 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+01:59:51 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+02:00:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:00:21 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:00:21 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+02:00:44 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:00:44 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+02:01:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:01:18 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:01:18 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+02:01:53 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:01:53 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+02:02:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:03:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:04:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:05:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:06:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:07:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:08:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:09:02 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:10:56 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+02:11:02 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+02:11:17 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:11:17 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+02:11:54 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:12:54 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:12:54 pm ---> SELECT day FROM day WHERE id = ?  
+02:13:54 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:14:54 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:15:15 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+02:15:56 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:15:56 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+02:16:22 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:16:22 pm ---> SELECT day FROM day WHERE id = ?  
+02:17:21 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:17:52 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+02:18:21 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:18:52 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:18:52 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+02:19:37 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:19:37 pm ---> SELECT day FROM day WHERE id = ?  
+02:20:24 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+02:21:02 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:21:02 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+02:21:17 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:22:17 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:22:17 pm ---> SELECT day FROM day WHERE id = ?  
+02:23:09 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+02:23:17 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:23:27 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:23:27 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+02:24:17 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:24:17 pm ---> SELECT day FROM day WHERE id = ?  
+02:24:36 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+02:24:47 pm ---> SELECT * FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:24:47 pm ---> INSERT INTO timer VALUES(?,?,?,?,?,?)
+02:26:00 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:28:10 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:29:10 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+02:29:10 pm ---> SELECT day FROM day WHERE id = ?  
+02:30:10 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+04:15:55 pm ---> DELETE FROM timer WHERE id = ?   id = ? 
+04:17:05 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
+04:18:05 pm ---> SELECT note FROM timer WHERE day_id = ? AND hour = ? AND minute = ?   
